@@ -8,18 +8,13 @@ print("Town: {}".format(town))
 print("Salary: ${0:.2f}".format(salary))
 if age <= 18:
     print("Age range: teen")
-elif age >70:
+elif age > 70:
     print("Age range: elder")
 else:
     print("Age range: adult")
-if salary <500:
+if salary < 500:
     print("Salary range: low")
-elif salary<2500:
+elif salary < 2500:
     print("Salary range: medium")
 else:
     print("Salary range: high")
-
-
-
-
-

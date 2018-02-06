@@ -6,7 +6,7 @@ while True:
     if arr[0] == 'Aggregate':
         break
     if arr[0] in shells:
-        tempArr = [int(item) for item in shells[arr[0]]]
+        tempArr = shells[arr[0]]
         if int(arr[1]) not in tempArr:
             tempArr.append(int(arr[1]))
     else:

@@ -1,6 +1,3 @@
-nums = [1,2,3,4,5]
-filtered = filter(lambda num:num % 2 ==0,nums)
-fi = list(filtered)
-print(fi)
-
-
+x = -4
+if x in range (-5):
+    print("yes")

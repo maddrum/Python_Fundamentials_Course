@@ -1,4 +1,4 @@
-class checker:
+class rect_coor:
     def __init__(self, x, y, width, height):
         self.x1 = x
         self.y1 = y

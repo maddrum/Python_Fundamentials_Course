@@ -1,7 +1,7 @@
 from math import sqrt
 
 
-class checker:
+class rect_coords:
     def __init__(self, x, y, width, height):
         self.x1 = x
         self.y1 = y
@@ -23,8 +23,8 @@ class checker:
 
 inputData1 = input().split()
 inputData2 = input().split()
-rect1 = checker(int(inputData1[0]), int(inputData1[1]), int(inputData1[2]), int(inputData1[3]))
-rect2 = checker(int(inputData2[0]), int(inputData2[1]), int(inputData2[2]), int(inputData2[3]))
+rect1 = rect_coords(int(inputData1[0]), int(inputData1[1]), int(inputData1[2]), int(inputData1[3]))
+rect2 = rect_coords(int(inputData2[0]), int(inputData2[1]), int(inputData2[2]), int(inputData2[3]))
 check_1 = rect2.point_inside_check(rect1.x1, rect1.y1)
 check_2 = rect2.point_inside_check(rect1.x2, rect1.y2)
 check_3 = rect2.point_inside_check(rect1.x3, rect1.y3)

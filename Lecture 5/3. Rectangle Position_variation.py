@@ -1,4 +1,4 @@
-class rect_coor:
+class rectangle_coords:
     def __init__(self, x, y, width, height):
         self.x1 = x
         self.y1 = y
@@ -14,8 +14,8 @@ class rect_coor:
 
 inputData1 = input().split()
 inputData2 = input().split()
-rect1 = checker(int(inputData1[0]), int(inputData1[1]), int(inputData1[2]), int(inputData1[3]))
-rect2 = checker(int(inputData2[0]), int(inputData2[1]), int(inputData2[2]), int(inputData2[3]))
+rect1 = rectangle_coords(int(inputData1[0]), int(inputData1[1]), int(inputData1[2]), int(inputData1[3]))
+rect2 = rectangle_coords(int(inputData2[0]), int(inputData2[1]), int(inputData2[2]), int(inputData2[3]))
 if rect1.x2 in range(rect2.x1, rect2.x3 + 1) and rect1.x2 in range(rect2.x1, rect2.x3 + 1) and \
         rect1.y1 in range(rect2.y1, rect2.y3 + 1) and rect1.y1 in range(rect2.y1, rect2.y3 + 1):
     print("Inside")

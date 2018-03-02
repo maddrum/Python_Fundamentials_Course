@@ -9,7 +9,8 @@ class Commit:
         self.deletions = int(deletions)
 
 
-pattern = r'https://github.com/(?P<user>[A-Za-z\d-]+)/(?P<repo>[\w_-]+)/commit/(?P<hex>[a-f\d]{40}),(?P<message>[^\n,]+),(?P<addition>\d+),(?P<deletion>\d+)'
+pattern = r'https://github.com/(?P<user>[A-Za-z\d-]+)/(?P<repo>[\w_-]+)/commit' \
+          r'(?P<hex>[a-f\d]{40}),(?P<message>[^\n,]+),(?P<addition>\d+),(?P<deletion>\d+)'
 regex = re.compile(pattern)
 data_dict = {}
 while True:
@@ -40,7 +41,8 @@ for item in sorted(data_dict):
     total_deletions = 0
     for commit in commits:
         print(
-            f'    commit {commit.hex_str}: {commit.message} ({commit.additions} additions, {commit.deletions} deletions)')
+            f'    commit {commit.hex_str}: {commit.message} ({commit.additions} additions, '
+            f'{commit.deletions} deletions)')
         total_additions += commit.additions
         total_deletions += commit.deletions
     print(f'    Total: {total_additions} additions, {total_deletions} deletions')

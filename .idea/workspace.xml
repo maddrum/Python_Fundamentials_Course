@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fd2a735-b6df-4757-afd7-dec209eb7f17" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/03. Match Hexadecimal Numbers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/04. Match Dates.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/05. Match Numbers.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/06. Replace Tag.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/07. Cards.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/08. Word Encounter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/09. Fish Statistics.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/10. Happiness Index.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/11. Query Mess.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/12.  Use Your Chains, Buddy.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/13. Commits.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/Pyhon_fundamentials.iml" afterPath="$PROJECT_DIR$/.idea/Pyhon_fundamentials.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/01. Match Full Name.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Lecture 8/02. Match Phone Number.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Lecture 7/06.Diamond Problem.py" afterPath="$PROJECT_DIR$/Lecture 7/06.Diamond Problem.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +28,8 @@
       <file leaf-file-name="13. Commits.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lecture 8/13. Commits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="629">
+              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -189,13 +176,20 @@
       <option name="presentableId" value="Default" />
       <updated>1519992587911</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lecture 8">
+      <created>1520006076657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520006076657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15989584" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -218,6 +212,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lecture 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lecture 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -275,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture 8/13. Commits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="629">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
           <folding />
         </state>
       </provider>

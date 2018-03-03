@@ -13,7 +13,7 @@ while True:
     checker = regex.match(sentence)
     if checker == None:
         continue
-    words = re.findall(r'\w+', sentence)
+    words = re.findall(r'\w+\b', sentence)
     for word in words:
         word_counter = word.count(filter_string_letter)
         if word_counter == filter_string_number:

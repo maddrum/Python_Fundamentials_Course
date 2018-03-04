@@ -9,7 +9,7 @@ class Commit:
         self.deletions = int(deletions)
 
 
-pattern = r'https://github\.com/(?P<user>[A-Za-z\d-]+)/(?P<repo>[A-Za-z_-]+)/commit/(?P<hex>[a-f\d]{40}),(?P<message>[^\n,]+),(?P<addition>\d+),(?P<deletion>\d+)'
+pattern = r'https://github\.com/(?P<user>[A-Za-z\d-]+)/(?P<repo>[A-Za-z_-]+)/commit/(?P<hex>[a-f\d]{40}),(?P<message>[^\n]+),(?P<addition>\d+),(?P<deletion>\d+)'
 regex = re.compile(pattern)
 username_repo = {}
 while True:

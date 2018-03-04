@@ -1,6 +1,6 @@
 import re
 
-sentence_pattern = r'^[A-Z].+[\.\!\?]$'
+sentence_pattern = r'^[A-Z][^\.!\?]*[\.\!\?]$'
 regex = re.compile(sentence_pattern)
 filter_string = input()
 filter_string_letter = filter_string[0]

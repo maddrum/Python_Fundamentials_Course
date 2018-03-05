@@ -2,11 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1793ed8-ada6-4428-82fd-9a275c5589fb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Pyhon_fundamentials.iml" afterPath="$PROJECT_DIR$/.idea/Pyhon_fundamentials.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Lecture 8/08. Word Encounter.py" afterPath="$PROJECT_DIR$/Lecture 8/08. Word Encounter.py" />
-      <change beforePath="$PROJECT_DIR$/Lecture 8/13. Commits.py" afterPath="$PROJECT_DIR$/Lecture 8/13. Commits.py" />
+      <change beforePath="$PROJECT_DIR$/Lecture 1/02. Person Info.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 1/03. Extended Person Info.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 1/04. Numbers from 1 to 10.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 1/05. Print Numbers with Step.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/01. Blank Receipt.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/02. Sign of Integer Number.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/03. Printing Triangle.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/04. Draw a Filled Square.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/05. Calculate Triangle Area.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/06. Math Power.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/07. Greater of Two Values.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 2/08. Multiply Evens by Odds.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/01. Sum List Items.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/02. Multiply a List of Integers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/03. Smallest Item in List.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/04. Rotate List of Strings.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/05. Count of Odd Numbers in List.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/06. Odd Numbers at Odd Positions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/07. Remove Negatives and Reverse.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/08. Append Lists.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/09. Sort Numbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 3/10. Square Numbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/01. Odd Occurrences.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/02. Count Real Numbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/03. Letter Repetition.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/04. Dict-Ref.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/05. Mixed Phones.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/06. Exam Shopping.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/07. User Logins.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/08. Filter Base.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/09. Wardrobe.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 4/10. Shellbound.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/1. Distance Between Points.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/2. Closest Two Points.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/3. Rectangle Position.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/3. Rectangle Position_variation.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/4. Exercises.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/5. Optimized Banking System.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/6. Animals.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/7. Websites.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/8. Boxes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 5/9. Messages.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/1. Odd Lines.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/2. Line Numbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/3. Merge Files.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/4. Filter Extensions.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/5. HTML Contents.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/6. User Database.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/7. Folder Size.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/8. Re-Directory.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 6/9. Products.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/01.Reverse string.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/02.Count substring occurrences.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/03. Text filter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/04. Palindromes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/05. Value of a String.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/06.Diamond Problem.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/06.Diamond Problem_alt.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/06.Diamond Problem_regex.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/07.Serialize String.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/08.Deserialize String.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/09.String Commander.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/10.Stateless.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/11. Pyramidic.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 7/12.Nilapdromes.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/01. Match Full Name.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/02. Match Phone Number.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/03. Match Hexadecimal Numbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/04. Match Dates.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/05. Match Numbers.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/06. Replace Tag.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/07. Cards.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/08. Word Encounter.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/09. Fish Statistics.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/10. Happiness Index.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/11. Query Mess.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/12.  Use Your Chains, Buddy.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Lecture 8/13. Commits.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,48 +90,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="08. Word Encounter.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lecture 8/08. Word Encounter.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13. Commits.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture 8/13. Commits.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06.Diamond Problem_alt.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture 7/06.Diamond Problem_alt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="06.Diamond Problem.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lecture 7/06.Diamond Problem.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,6 +132,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,17 +141,10 @@
               <item name="Pyhon_fundamentials" type="b2602c69:ProjectViewProjectNode" />
               <item name="Pyhon_fundamentials" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Pyhon_fundamentials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Pyhon_fundamentials" type="462c0819:PsiDirectoryNode" />
-              <item name="Lecture 8" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,25 +231,31 @@
       <option name="project" value="LOCAL" />
       <updated>1520071549614</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="L8">
+      <created>1520182835721</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1520182835721</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39872748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39872748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -236,22 +270,80 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="L7 and L8" />
-    <option name="LAST_COMMIT_MESSAGE" value="L7 and L8" />
+    <MESSAGE value="L8" />
+    <option name="LAST_COMMIT_MESSAGE" value="L8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Lecture 8/08. Word Encounter.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Lecture 8/08. Word Encounter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 8/13. Commits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 7/06.Diamond Problem_alt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 7/06.Diamond Problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 8/08. Word Encounter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 8/13. Commits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 7/06.Diamond Problem_alt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 7/06.Diamond Problem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lecture 8/08. Word Encounter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -302,15 +394,23 @@
     <entry file="file://$PROJECT_DIR$/Lecture 8/13. Commits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lecture 8/08. Word Encounter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lecture 4/04. Dict-Ref.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -16,6 +16,6 @@ while True:
     words = re.findall(r'\w+\b', sentence)
     for word in words:
         word_counter = word.count(filter_string_letter)
-        if word_counter == filter_string_number:
+        if word_counter >= filter_string_number:
             found_words.append(word)
 print(*found_words, sep=", ")
